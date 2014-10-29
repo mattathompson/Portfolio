@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'haml'
-require 'pry'
 
 
 get '/' do
